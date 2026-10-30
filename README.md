@@ -1,5 +1,6 @@
+<!-- Animated Wave Header (Fixed) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Farhan%20Maulana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Web%20%26%20Mobile%20Developer%20%7C%20Code%20Alchemist&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Farhan%20Maulana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Web%20and%20Mobile%20Developer%20%7C%20Code%20Alchemist&descAlignY=55&descSize=18" width="100%" />
 </p>
 
 <p align="center">
